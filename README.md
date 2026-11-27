@@ -224,116 +224,116 @@ Skills are not MCP servers and not tools. MCP defines how an agent connects to e
 Pre-built workflow skills for 78 SaaS apps via [Rube MCP (Composio)](https://composio.dev). Each skill includes tool sequences, parameter guidance, known pitfalls, and quick reference tables — all using real tool slugs discovered from Composio's API.
 
 **CRM & Sales**
-- [Close Automation](./close-automation/) - Automate Close CRM: leads, contacts, opportunities, activities, and pipelines.
-- [HubSpot Automation](./hubspot-automation/) - Automate HubSpot CRM: contacts, deals, companies, tickets, and email engagement.
-- [Pipedrive Automation](./pipedrive-automation/) - Automate Pipedrive: deals, contacts, organizations, activities, and pipelines.
-- [Salesforce Automation](./salesforce-automation/) - Automate Salesforce: objects, records, SOQL queries, and bulk operations.
-- [Zoho CRM Automation](./zoho-crm-automation/) - Automate Zoho CRM: leads, contacts, deals, accounts, and modules.
+- [Close Automation](./composio-skills/close-automation/) - Automate Close CRM: leads, contacts, opportunities, activities, and pipelines.
+- [HubSpot Automation](./composio-skills/hubspot-automation/) - Automate HubSpot CRM: contacts, deals, companies, tickets, and email engagement.
+- [Pipedrive Automation](./composio-skills/pipedrive-automation/) - Automate Pipedrive: deals, contacts, organizations, activities, and pipelines.
+- [Salesforce Automation](./composio-skills/salesforce-automation/) - Automate Salesforce: objects, records, SOQL queries, and bulk operations.
+- [Zoho CRM Automation](./composio-skills/zoho-crm-automation/) - Automate Zoho CRM: leads, contacts, deals, accounts, and modules.
 
 **Project Management**
-- [Asana Automation](./asana-automation/) - Automate Asana: tasks, projects, sections, assignments, and workspaces.
-- [Basecamp Automation](./basecamp-automation/) - Automate Basecamp: to-do lists, messages, people, groups, and projects.
-- [ClickUp Automation](./clickup-automation/) - Automate ClickUp: tasks, lists, spaces, goals, and time tracking.
-- [Jira Automation](./jira-automation/) - Automate Jira: issues, projects, boards, sprints, and JQL queries.
-- [Linear Automation](./linear-automation/) - Automate Linear: issues, projects, cycles, teams, and workflows.
-- [Monday Automation](./monday-automation/) - Automate Monday.com: boards, items, columns, groups, and workspaces.
-- [Notion Automation](./notion-automation/) - Automate Notion: pages, databases, blocks, comments, and search.
-- [Todoist Automation](./todoist-automation/) - Automate Todoist: tasks, projects, sections, labels, and filters.
-- [Trello Automation](./trello-automation/) - Automate Trello: boards, cards, lists, members, and checklists.
-- [Wrike Automation](./wrike-automation/) - Automate Wrike: tasks, folders, projects, comments, and workflows.
+- [Asana Automation](./composio-skills/asana-automation/) - Automate Asana: tasks, projects, sections, assignments, and workspaces.
+- [Basecamp Automation](./composio-skills/basecamp-automation/) - Automate Basecamp: to-do lists, messages, people, groups, and projects.
+- [ClickUp Automation](./composio-skills/clickup-automation/) - Automate ClickUp: tasks, lists, spaces, goals, and time tracking.
+- [Jira Automation](./composio-skills/jira-automation/) - Automate Jira: issues, projects, boards, sprints, and JQL queries.
+- [Linear Automation](./composio-skills/linear-automation/) - Automate Linear: issues, projects, cycles, teams, and workflows.
+- [Monday Automation](./composio-skills/monday-automation/) - Automate Monday.com: boards, items, columns, groups, and workspaces.
+- [Notion Automation](./composio-skills/notion-automation/) - Automate Notion: pages, databases, blocks, comments, and search.
+- [Todoist Automation](./composio-skills/todoist-automation/) - Automate Todoist: tasks, projects, sections, labels, and filters.
+- [Trello Automation](./composio-skills/trello-automation/) - Automate Trello: boards, cards, lists, members, and checklists.
+- [Wrike Automation](./composio-skills/wrike-automation/) - Automate Wrike: tasks, folders, projects, comments, and workflows.
 
 **Communication**
-- [Discord Automation](./discord-automation/) - Automate Discord: messages, channels, servers, roles, and reactions.
-- [Intercom Automation](./intercom-automation/) - Automate Intercom: conversations, contacts, companies, tickets, and articles.
-- [Microsoft Teams Automation](./microsoft-teams-automation/) - Automate Teams: messages, channels, teams, chats, and meetings.
-- [Slack Automation](./slack-automation/) - Automate Slack: messages, channels, search, reactions, threads, and scheduling.
-- [Telegram Automation](./telegram-automation/) - Automate Telegram: messages, chats, media, groups, and bots.
-- [WhatsApp Automation](./whatsapp-automation/) - Automate WhatsApp: messages, media, templates, groups, and business profiles.
+- [Discord Automation](./composio-skills/discord-automation/) - Automate Discord: messages, channels, servers, roles, and reactions.
+- [Intercom Automation](./composio-skills/intercom-automation/) - Automate Intercom: conversations, contacts, companies, tickets, and articles.
+- [Microsoft Teams Automation](./composio-skills/microsoft-teams-automation/) - Automate Teams: messages, channels, teams, chats, and meetings.
+- [Slack Automation](./composio-skills/slack-automation/) - Automate Slack: messages, channels, search, reactions, threads, and scheduling.
+- [Telegram Automation](./composio-skills/telegram-automation/) - Automate Telegram: messages, chats, media, groups, and bots.
+- [WhatsApp Automation](./composio-skills/whatsapp-automation/) - Automate WhatsApp: messages, media, templates, groups, and business profiles.
 
 **Email**
-- [Gmail Automation](./gmail-automation/) - Automate Gmail: send/reply, search, labels, drafts, and attachments.
-- [Outlook Automation](./outlook-automation/) - Automate Outlook: emails, folders, contacts, and calendar integration.
-- [Postmark Automation](./postmark-automation/) - Automate Postmark: transactional emails, templates, servers, and delivery stats.
-- [SendGrid Automation](./sendgrid-automation/) - Automate SendGrid: emails, templates, contacts, lists, and campaign stats.
+- [Gmail Automation](./composio-skills/gmail-automation/) - Automate Gmail: send/reply, search, labels, drafts, and attachments.
+- [Outlook Automation](./composio-skills/outlook-automation/) - Automate Outlook: emails, folders, contacts, and calendar integration.
+- [Postmark Automation](./composio-skills/postmark-automation/) - Automate Postmark: transactional emails, templates, servers, and delivery stats.
+- [SendGrid Automation](./composio-skills/sendgrid-automation/) - Automate SendGrid: emails, templates, contacts, lists, and campaign stats.
 
 **Code & DevOps**
-- [Bitbucket Automation](./bitbucket-automation/) - Automate Bitbucket: repos, PRs, branches, issues, and workspaces.
-- [CircleCI Automation](./circleci-automation/) - Automate CircleCI: pipelines, workflows, jobs, and project configuration.
-- [Datadog Automation](./datadog-automation/) - Automate Datadog: monitors, dashboards, metrics, incidents, and alerts.
-- [GitHub Automation](./github-automation/) - Automate GitHub: issues, PRs, repos, branches, actions, and code search.
-- [GitLab Automation](./gitlab-automation/) - Automate GitLab: issues, MRs, projects, pipelines, and branches.
-- [PagerDuty Automation](./pagerduty-automation/) - Automate PagerDuty: incidents, services, schedules, escalation policies, and on-call.
-- [Render Automation](./render-automation/) - Automate Render: services, deploys, and project management.
-- [Sentry Automation](./sentry-automation/) - Automate Sentry: issues, events, projects, releases, and alerts.
-- [Supabase Automation](./supabase-automation/) - Automate Supabase: SQL queries, table schemas, edge functions, and storage.
-- [Vercel Automation](./vercel-automation/) - Automate Vercel: deployments, projects, domains, environment variables, and logs.
+- [Bitbucket Automation](./composio-skills/bitbucket-automation/) - Automate Bitbucket: repos, PRs, branches, issues, and workspaces.
+- [CircleCI Automation](./composio-skills/circleci-automation/) - Automate CircleCI: pipelines, workflows, jobs, and project configuration.
+- [Datadog Automation](./composio-skills/datadog-automation/) - Automate Datadog: monitors, dashboards, metrics, incidents, and alerts.
+- [GitHub Automation](./composio-skills/github-automation/) - Automate GitHub: issues, PRs, repos, branches, actions, and code search.
+- [GitLab Automation](./composio-skills/gitlab-automation/) - Automate GitLab: issues, MRs, projects, pipelines, and branches.
+- [PagerDuty Automation](./composio-skills/pagerduty-automation/) - Automate PagerDuty: incidents, services, schedules, escalation policies, and on-call.
+- [Render Automation](./composio-skills/render-automation/) - Automate Render: services, deploys, and project management.
+- [Sentry Automation](./composio-skills/sentry-automation/) - Automate Sentry: issues, events, projects, releases, and alerts.
+- [Supabase Automation](./composio-skills/supabase-automation/) - Automate Supabase: SQL queries, table schemas, edge functions, and storage.
+- [Vercel Automation](./composio-skills/vercel-automation/) - Automate Vercel: deployments, projects, domains, environment variables, and logs.
 
 **Storage & Files**
-- [Box Automation](./box-automation/) - Automate Box: files, folders, search, sharing, collaborations, and sign requests.
-- [Dropbox Automation](./dropbox-automation/) - Automate Dropbox: files, folders, search, sharing, and batch operations.
-- [Google Drive Automation](./google-drive-automation/) - Automate Google Drive: upload, download, search, share, and organize files.
-- [OneDrive Automation](./one-drive-automation/) - Automate OneDrive: files, folders, search, sharing, permissions, and versioning.
+- [Box Automation](./composio-skills/box-automation/) - Automate Box: files, folders, search, sharing, collaborations, and sign requests.
+- [Dropbox Automation](./composio-skills/dropbox-automation/) - Automate Dropbox: files, folders, search, sharing, and batch operations.
+- [Google Drive Automation](./composio-skills/google-drive-automation/) - Automate Google Drive: upload, download, search, share, and organize files.
+- [OneDrive Automation](./composio-skills/one-drive-automation/) - Automate OneDrive: files, folders, search, sharing, permissions, and versioning.
 
 **Spreadsheets & Databases**
-- [Airtable Automation](./airtable-automation/) - Automate Airtable: records, tables, bases, views, and field management.
-- [Coda Automation](./coda-automation/) - Automate Coda: docs, tables, rows, formulas, and automations.
-- [Google Sheets Automation](./googlesheets-automation/) - Automate Google Sheets: read/write cells, formatting, formulas, and batch operations.
+- [Airtable Automation](./composio-skills/airtable-automation/) - Automate Airtable: records, tables, bases, views, and field management.
+- [Coda Automation](./composio-skills/coda-automation/) - Automate Coda: docs, tables, rows, formulas, and automations.
+- [Google Sheets Automation](./composio-skills/googlesheets-automation/) - Automate Google Sheets: read/write cells, formatting, formulas, and batch operations.
 
 **Calendar & Scheduling**
-- [Cal.com Automation](./cal-com-automation/) - Automate Cal.com: event types, bookings, availability, and scheduling.
-- [Calendly Automation](./calendly-automation/) - Automate Calendly: events, invitees, event types, scheduling links, and availability.
-- [Google Calendar Automation](./google-calendar-automation/) - Automate Google Calendar: events, attendees, free/busy, and recurring schedules.
-- [Outlook Calendar Automation](./outlook-calendar-automation/) - Automate Outlook Calendar: events, attendees, reminders, and recurring schedules.
+- [Cal.com Automation](./composio-skills/cal-com-automation/) - Automate Cal.com: event types, bookings, availability, and scheduling.
+- [Calendly Automation](./composio-skills/calendly-automation/) - Automate Calendly: events, invitees, event types, scheduling links, and availability.
+- [Google Calendar Automation](./composio-skills/google-calendar-automation/) - Automate Google Calendar: events, attendees, free/busy, and recurring schedules.
+- [Outlook Calendar Automation](./composio-skills/outlook-calendar-automation/) - Automate Outlook Calendar: events, attendees, reminders, and recurring schedules.
 
 **Social Media**
-- [Instagram Automation](./instagram-automation/) - Automate Instagram: posts, stories, comments, media, and business insights.
-- [LinkedIn Automation](./linkedin-automation/) - Automate LinkedIn: posts, profiles, companies, images, and comments.
-- [Reddit Automation](./reddit-automation/) - Automate Reddit: posts, comments, subreddits, voting, and moderation.
-- [TikTok Automation](./tiktok-automation/) - Automate TikTok: video uploads, queries, and creator management.
-- [Twitter Automation](./twitter-automation/) - Automate Twitter/X: tweets, search, users, lists, and engagement.
-- [YouTube Automation](./youtube-automation/) - Automate YouTube: videos, channels, playlists, comments, and subscriptions.
+- [Instagram Automation](./composio-skills/instagram-automation/) - Automate Instagram: posts, stories, comments, media, and business insights.
+- [LinkedIn Automation](./composio-skills/linkedin-automation/) - Automate LinkedIn: posts, profiles, companies, images, and comments.
+- [Reddit Automation](./composio-skills/reddit-automation/) - Automate Reddit: posts, comments, subreddits, voting, and moderation.
+- [TikTok Automation](./composio-skills/tiktok-automation/) - Automate TikTok: video uploads, queries, and creator management.
+- [Twitter Automation](./composio-skills/twitter-automation/) - Automate Twitter/X: tweets, search, users, lists, and engagement.
+- [YouTube Automation](./composio-skills/youtube-automation/) - Automate YouTube: videos, channels, playlists, comments, and subscriptions.
 
 **Marketing & Email Marketing**
-- [ActiveCampaign Automation](./activecampaign-automation/) - Automate ActiveCampaign: contacts, deals, campaigns, lists, and automations.
-- [Brevo Automation](./brevo-automation/) - Automate Brevo: contacts, email campaigns, transactional emails, and lists.
-- [ConvertKit Automation](./convertkit-automation/) - Automate ConvertKit (Kit): subscribers, tags, sequences, broadcasts, and forms.
-- [Klaviyo Automation](./klaviyo-automation/) - Automate Klaviyo: profiles, lists, segments, campaigns, and events.
-- [Mailchimp Automation](./mailchimp-automation/) - Automate Mailchimp: audiences, campaigns, templates, segments, and reports.
+- [ActiveCampaign Automation](./composio-skills/activecampaign-automation/) - Automate ActiveCampaign: contacts, deals, campaigns, lists, and automations.
+- [Brevo Automation](./composio-skills/brevo-automation/) - Automate Brevo: contacts, email campaigns, transactional emails, and lists.
+- [ConvertKit Automation](./composio-skills/convertkit-automation/) - Automate ConvertKit (Kit): subscribers, tags, sequences, broadcasts, and forms.
+- [Klaviyo Automation](./composio-skills/klaviyo-automation/) - Automate Klaviyo: profiles, lists, segments, campaigns, and events.
+- [Mailchimp Automation](./composio-skills/mailchimp-automation/) - Automate Mailchimp: audiences, campaigns, templates, segments, and reports.
 
 **Support & Helpdesk**
-- [Freshdesk Automation](./freshdesk-automation/) - Automate Freshdesk: tickets, contacts, agents, groups, and canned responses.
-- [Freshservice Automation](./freshservice-automation/) - Automate Freshservice: tickets, assets, changes, problems, and service catalog.
-- [Help Scout Automation](./helpdesk-automation/) - Automate Help Scout: conversations, customers, mailboxes, and tags.
-- [Zendesk Automation](./zendesk-automation/) - Automate Zendesk: tickets, users, organizations, search, and macros.
+- [Freshdesk Automation](./composio-skills/freshdesk-automation/) - Automate Freshdesk: tickets, contacts, agents, groups, and canned responses.
+- [Freshservice Automation](./composio-skills/freshservice-automation/) - Automate Freshservice: tickets, assets, changes, problems, and service catalog.
+- [Help Scout Automation](./composio-skills/helpdesk-automation/) - Automate Help Scout: conversations, customers, mailboxes, and tags.
+- [Zendesk Automation](./composio-skills/zendesk-automation/) - Automate Zendesk: tickets, users, organizations, search, and macros.
 
 **E-commerce & Payments**
-- [Shopify Automation](./shopify-automation/) - Automate Shopify: products, orders, customers, inventory, and GraphQL queries.
-- [Square Automation](./square-automation/) - Automate Square: payments, customers, catalog, orders, and locations.
-- [Stripe Automation](./stripe-automation/) - Automate Stripe: charges, customers, products, subscriptions, and refunds.
+- [Shopify Automation](./composio-skills/shopify-automation/) - Automate Shopify: products, orders, customers, inventory, and GraphQL queries.
+- [Square Automation](./composio-skills/square-automation/) - Automate Square: payments, customers, catalog, orders, and locations.
+- [Stripe Automation](./composio-skills/stripe-automation/) - Automate Stripe: charges, customers, products, subscriptions, and refunds.
 
 **Design & Collaboration**
-- [Canva Automation](./canva-automation/) - Automate Canva: designs, templates, assets, folders, and brand kits.
-- [Confluence Automation](./confluence-automation/) - Automate Confluence: pages, spaces, search, CQL, labels, and versions.
-- [DocuSign Automation](./docusign-automation/) - Automate DocuSign: envelopes, templates, signing, and document management.
-- [Figma Automation](./figma-automation/) - Automate Figma: files, components, comments, projects, and team management.
-- [Miro Automation](./miro-automation/) - Automate Miro: boards, sticky notes, shapes, connectors, and items.
-- [Webflow Automation](./webflow-automation/) - Automate Webflow: CMS collections, items, sites, publishing, and assets.
+- [Canva Automation](./composio-skills/canva-automation/) - Automate Canva: designs, templates, assets, folders, and brand kits.
+- [Confluence Automation](./composio-skills/confluence-automation/) - Automate Confluence: pages, spaces, search, CQL, labels, and versions.
+- [DocuSign Automation](./composio-skills/docusign-automation/) - Automate DocuSign: envelopes, templates, signing, and document management.
+- [Figma Automation](./composio-skills/figma-automation/) - Automate Figma: files, components, comments, projects, and team management.
+- [Miro Automation](./composio-skills/miro-automation/) - Automate Miro: boards, sticky notes, shapes, connectors, and items.
+- [Webflow Automation](./composio-skills/webflow-automation/) - Automate Webflow: CMS collections, items, sites, publishing, and assets.
 
 **Analytics & Data**
-- [Amplitude Automation](./amplitude-automation/) - Automate Amplitude: events, cohorts, user properties, and analytics queries.
-- [Google Analytics Automation](./google-analytics-automation/) - Automate Google Analytics: reports, dimensions, metrics, and property management.
-- [Mixpanel Automation](./mixpanel-automation/) - Automate Mixpanel: events, funnels, cohorts, annotations, and JQL queries.
-- [PostHog Automation](./posthog-automation/) - Automate PostHog: events, persons, feature flags, insights, and annotations.
-- [Segment Automation](./segment-automation/) - Automate Segment: sources, destinations, tracking, and warehouse connections.
+- [Amplitude Automation](./composio-skills/amplitude-automation/) - Automate Amplitude: events, cohorts, user properties, and analytics queries.
+- [Google Analytics Automation](./composio-skills/google-analytics-automation/) - Automate Google Analytics: reports, dimensions, metrics, and property management.
+- [Mixpanel Automation](./composio-skills/mixpanel-automation/) - Automate Mixpanel: events, funnels, cohorts, annotations, and JQL queries.
+- [PostHog Automation](./composio-skills/posthog-automation/) - Automate PostHog: events, persons, feature flags, insights, and annotations.
+- [Segment Automation](./composio-skills/segment-automation/) - Automate Segment: sources, destinations, tracking, and warehouse connections.
 
 **HR & People**
-- [BambooHR Automation](./bamboohr-automation/) - Automate BambooHR: employees, time off, reports, and directory management.
+- [BambooHR Automation](./composio-skills/bamboohr-automation/) - Automate BambooHR: employees, time off, reports, and directory management.
 
 **Automation Platforms**
-- [Make Automation](./make-automation/) - Automate Make (Integromat): scenarios, connections, and execution management.
+- [Make Automation](./composio-skills/make-automation/) - Automate Make (Integromat): scenarios, connections, and execution management.
 
 **Zoom & Meetings**
-- [Zoom Automation](./zoom-automation/) - Automate Zoom: meetings, recordings, participants, webinars, and reports.
+- [Zoom Automation](./composio-skills/zoom-automation/) - Automate Zoom: meetings, recordings, participants, webinars, and reports.
 
 ## Getting Started
 
