@@ -11,7 +11,7 @@ A curated list of Claude Skills. `README.md` is the product: a categorized index
 - `<skill-name>/SKILL.md` - one folder per vendored skill at the repo root (lowercase, hyphenated). Some carry `scripts/`, `reference/`, `examples/`, or `templates/`.
 - `template-skill/` - minimal starting point for a new skill.
 - `document-skills/{docx,pdf,pptx,xlsx}/` - nested document skills; no `SKILL.md` at the `document-skills/` level.
-- `composio-skills/<app>-automation/SKILL.md` - 832 generated app-automation skills that all follow one shape (frontmatter with `requires: mcp: [rube]`).
+- `composio-skills/<app>-automation/SKILL.md` - 910 app-automation skills (frontmatter with `requires: mcp: [rube]`). 78 are hand-written and listed in the README's "App Automation via Composio" section as `./composio-skills/<app>-automation/`; the rest are generated and follow one shape.
 - `connect-apps-plugin/` - a Claude Code plugin (`.claude-plugin/`, `commands/setup.md`), not a skill.
 - `.github/workflows/label-ready-skill.yml` - labels PRs that are clean README-only listings.
 
@@ -35,5 +35,4 @@ Do not rename or move the `## Skills` or `## Getting Started` headings; the work
 
 ## Notes
 
-- The "App Automation via Composio" section of the README links to `./<app>-automation/`, but those folders live under `composio-skills/`. Mention this rather than mass-fixing links unless asked.
 - Skill folders contain large vendored assets (fonts in `canvas-design/canvas-fonts/`, OOXML schemas under `document-skills/*/ooxml/`). Don't read or reformat them.
